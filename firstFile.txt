@@ -1,1 +1,2 @@
 This is our first file
+New line of text from the Collaborator
